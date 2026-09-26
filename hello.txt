@@ -2,4 +2,4 @@ Hello Git
 Welcome to Git
 
 1. View Profile
-2. View Courses
+2. Login
