@@ -3,3 +3,4 @@ Welcome to Git
 
 1. View Profile
 2. Sign Up
+3. Login
